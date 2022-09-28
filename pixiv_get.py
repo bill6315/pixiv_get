@@ -67,4 +67,4 @@ def pixiv_get(keyword, page, rating_count):
         f.close()              # 寫入完成後關閉圖片檔案
         name += 1
 
-pixiv_get('アズールレーン',12 , 500) #第一個輸入關鍵字(str)，第二個輸入要爬取頁數(int)(未登入狀態僅能爬取十頁)，第三個輸入只下載多少讚數以上的圖片(int)
+pixiv_get(keyword,page , rating_count) #第一個輸入關鍵字(str)，第二個輸入要爬取頁數(int)(未登入狀態僅能爬取十頁)，第三個輸入只下載多少讚數以上的圖片(int)
