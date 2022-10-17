@@ -129,4 +129,4 @@ def pixiv_get(keyword, page, rating_count):
     socketserver.TCPServer(('127.0.0.1', 8080), MyHandler).serve_forever() 
 
 
-pixiv_get('アズールレーン',10 , 500) #第一個輸入關鍵字(str)，第二個輸入要爬取頁數(int)(未登入狀態僅能爬取十頁)，第三個輸入只下載多少讚數以上的圖片(int)
+pixiv_get('cyberpunk',10 , 500) #第一個輸入關鍵字(str)，第二個輸入要爬取頁數(int)(未登入狀態僅能爬取十頁)，第三個輸入只下載多少讚數以上的圖片(int)
