@@ -7,5 +7,5 @@ pixiv_get 此程式功能為將爬取到的插畫以原圖尺寸下載到downloa
 * 呈現示意圖:
 <img src="img/image_2.PNG" width="50%">  
 pixiv_web 此程式功能為將爬取的內容以網站得方式呈現，每張圖點進去都會連結到該圖片的pixiv網站。  
-### 呈現示意圖:
+
 <img src="img/image.PNG" width="50%">
