@@ -4,6 +4,6 @@
 如真的想要使用pixiv的熱門搜尋功能，建議還是直接買個會員比較快。
 ## 使用方法
 pixiv_get 此程式功能為將爬取到的插畫以原圖尺寸下載到download資料夾內。  
-pixiv_web 此程式功能為將爬取的內容以網站得方式呈現，每張圖點進去都會連結到該圖片的pixiv網站。
+pixiv_web 此程式功能為將爬取的內容以網站得方式呈現，每張圖點進去都會連結到該圖片的pixiv網站。  
 輸出結果:  
-![img](img/image.PNG)
+<img src="img/image.PNG" width="500", height="500">
